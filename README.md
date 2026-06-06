@@ -1,6 +1,7 @@
-- **Site** — [soundvia.ovh](https://soundvia.ovh)
+The offical GitHub org for the Soundvia Platform!
+- **Site** — [Soundvia](https://soundvia.eu)
 - **Instagram** — [@soundvia](https://instagram.com/soundvia)
-- **Discord** — [discord.gg/GMG9XXKS](https://discord.gg/GMG9XXKS)
+- **Discord** — [Discord](discord.gg/aAS4TMqn2B)
  
 ---
  
