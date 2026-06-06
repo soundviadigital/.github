@@ -5,4 +5,4 @@ The offical GitHub org for the Soundvia Platform!
  
 ---
  
-© 2026 soundvia
+© 2026 Soundvia LLC
