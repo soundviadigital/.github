@@ -4,7 +4,6 @@
 
 </p>
 
-# Soundvia
 
 **A music streaming platform built by artists, for artists.**
 
